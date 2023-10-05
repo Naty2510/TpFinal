@@ -1,0 +1,17 @@
+.navbar{
+    background-color: darkslategray;
+}
+.btn btn-transparent-white{
+     color: white;
+}
+.btn btn-green-white{
+    color: white;
+
+}
+
+
+.h4{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
